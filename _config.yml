@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Boaz Owitti
-description: "Hi I'm Boaz, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "I'm a data scientist providing cross industry solutions to client-centric business challenges, leveraging data to drive powerful insights that add value to the business. Proficient in translating complex business problems into actionable solutions, and employing data science expertise and creative problem-solving skills to real-world problems. Please visit my LinkedIn page and/or download my Resume by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ avatar_image: /img/portfolio.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
+linkedln: "https://linkedln.com/boazowitti" # Add your linkedln handle
 github: "https://boazowitti.github.io/#"  # Add your github handle
 
 paginate: 6
