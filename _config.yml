@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Boaz Owitti
-description: "I'm a data scientist providing cross industry solutions to client-centric business challenges, leveraging data to drive powerful insights that add value to the business. Proficient in translating complex business problems into actionable solutions, and employing data science expertise and creative problem-solving skills to real-world problems. Please visit my LinkedIn page and/or download my resume by using the links below!"
+description: "I'm a data scientist providing cross industry solutions to client-centric business challenges, leveraging data to drive powerful insights that add value to the business. Proficient in translating complex business problems into actionable solutions, and employing data science expertise and creative problem-solving skills to real-world problems. Please visit my LinkedIn page and/or download my resume by using the links below."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
